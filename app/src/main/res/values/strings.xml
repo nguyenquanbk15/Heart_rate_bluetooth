@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Heart_rate_bluetooth</string>
+    <string name="chi_so_hr">Chi so heart rate</string>
+    <string name="heart_rate">Heart Rate:</string>
+    <string name="chi_so_sp02">Chi so Sp02</string>
+    <string name="sp02">Sp02:</string>
+    <string name="none_status">None status</string>
+    <string name="status">Status:</string>
+    <string name="mac_address">Mac Address</string>
+    <string name="mac">MAC:</string>
+    <string name="deceive_name">Deceive Name</string>
+    <string name="name">Name:</string>
+    <string name="scan_deceive">Scan deceive</string>
+    <string name="connect_to_deceive">Connect to deceive</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="scan_button">Scanning Bluetooth Deceive</string>
+    <string name="paired_button">PAIRED</string>
+    <string name="scan_deceive_list">Scan Deceive</string>
+    <string name="paired_deceive">Paired Deceive</string>
+    <string name="none_paired">No devices have been paired</string>
+
+</resources>

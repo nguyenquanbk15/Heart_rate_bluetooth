@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_scan_device"
+        android:title="@string/scan_deceive" />
+    <item
+        android:id="@+id/mn_connect_to_deceive"
+        android:title="@string/connect_to_deceive" />
+    <item
+        android:id="@+id/mn_disconnect"
+        android:title="@string/disconnect" />
+</menu>
